@@ -1,2 +1,2 @@
 # PythonEveryday
-python每日一练 - from 20151125
+python每日一练-https://github.com/Yixiaohan/show-me-the-code
